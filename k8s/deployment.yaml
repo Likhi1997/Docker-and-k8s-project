@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: zomato-app
-          image: zomato
+          image: likhidevops/zomato
           ports:
             - containerPort: 80
