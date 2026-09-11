@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     app: zomato-food
-  type: nodePort
+  type: NodePort
   ports:
     - protocol: TCP
       port: 80
